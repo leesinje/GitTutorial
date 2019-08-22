@@ -1,3 +1,6 @@
 git test
 second input
 the third change
+fourth change
+fifth change
+sixth change
