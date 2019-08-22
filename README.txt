@@ -5,4 +5,3 @@ fourth change
 fifth change
 sixth change
 seventh change after branch refact
-eighth change after checkout refact
